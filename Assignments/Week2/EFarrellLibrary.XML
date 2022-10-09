@@ -1,0 +1,22 @@
+<Library>
+	<Catalogue category="Technical">
+		<Book ISBN="9781260577112">
+			<title>Shigley's Mechanical Engineering Design</title>
+			<author>Richard Gordon Budynas</author>
+		</Book>
+		<Book ISBN="9780134757704">
+			<title>Refactoring: Improving the Design of Existing Code</title>
+			<author>Martin Fowler</author>
+		</Book>
+	</Catalogue>
+	<Catalogue category="Cookery">
+		<Book ISBN="9781844884261">
+			<title>The Happy Pear: Recipes for Happiness: Delicious, Easy Vegetarian Food for the Whole Family</title>
+			<author>David Flynn</author>
+		</Book>
+		<Book ISBN="9781846077852">
+			<title>Mary Berry's Baking Bible: Over 250 Classic Recipes</title>
+			<author>Mary Berry</author>
+		</Book>
+	</Catalogue>
+</Library>
