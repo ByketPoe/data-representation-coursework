@@ -1,0 +1,22 @@
+<Library>
+	<Catalogue category="Technical">
+		<Book ISBN="9789332555402">
+			<title>Design Patterns: Elements of Reusable Object-oriented Software</title>
+			<author>Erich Gamma</author>
+		</Book>
+		<Book ISBN="9781119264361">
+			<title>Raspberry Pi User Guide</title>
+			<author>Eben Upton</author>
+		</Book>
+	</Catalogue>
+	<Catalogue category="Cookery">
+		<Book ISBN="9781405932318">
+			<title>Jamie's 30-Minute Meals</title>
+			<author>Jamie Oliver</author>
+		</Book>
+		<Book ISBN="9780307958174">
+			<title>Mastering the Art of French Cooking, Volume 1</title>
+			<author>Julia Child</author>
+		</Book>
+	</Catalogue>
+</Library>
